@@ -1,5 +1,7 @@
 # Challenge : Hero-corp
 
+C'est mon début de programmation site web !
+
 Voici votre premier challenge : vous allez devoir reproduire les visuels qui apparaissent plus bas. Il y a 3 niveaux d'accomplissement avec 3 niveaux de résultats de plus en plus élaborés :
 - le MVP
 - le BONUS
