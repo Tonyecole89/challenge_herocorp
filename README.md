@@ -5,6 +5,8 @@
 C'est mon début de programmation site web ! Grâce à ce premier projet, j'ai appris à utilsier du HTML ainsi que du CSS. 
 La principale difficultée est de pouvoir coder ce site en lui même, car le début est toujours le plus difficile. 
 
+# Sujet
+
 Voici votre premier challenge : vous allez devoir reproduire les visuels qui apparaissent plus bas. Il y a 3 niveaux d'accomplissement avec 3 niveaux de résultats de plus en plus élaborés :
 - le MVP
 - le BONUS
